@@ -1,0 +1,21 @@
+# Swift builds and local Xcode state
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Built applications and archives
+dist/
+*.app/
+*.dmg
+*.zip
+
+# Local settings, credentials and diagnostics
+.env
+.env.*
+*.pem
+*.key
+auth.json
+*.log
+.DS_Store
