@@ -1,12 +1,15 @@
 # Codex Quota
 
-A small, native macOS menu bar app for your remaining Codex quota.
+Индикатор остатка лимитов Codex.
 
 [Русская версия](README.ru.md) · [MIT license](LICENSE)
 
-Two monochrome rings. Left: **5-hour quota**. Right: **weekly quota**. Exact percentages and reset countdowns are one click away.
+## Что можно делать
 
-Unofficial community project. Not affiliated with or endorsed by OpenAI. The current menu and error messages are in Russian.
+- Быстро проверять остаток лимита на текущий период и неделю.
+- Видеть проценты использования и время сброса лимитов.
+
+---
 
 ## Features
 
